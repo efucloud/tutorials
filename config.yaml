@@ -1,0 +1,14 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'Efu Cloud'
+
+theme: "hugo-book"
+
+
+menu:
+  before:
+    - name: "Github"
+      url: "https://github.com/efucloud"
+      weight: 10
+params:
+  BookSearch: true
